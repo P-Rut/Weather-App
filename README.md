@@ -1,13 +1,14 @@
 
 
-## WEATHER APP
+## ⛈️ WEATHER APP
 A simple weather app coded as part of my frontend learning process.
 It uses open API and allows you to check the weather in any city in the world.
-One of my firsts 😅
+I know ... so advanced 🤓
+But it's one of my very firsts.
 
 
 ![Partners Studio Concept](src/assets/gif.gif)
-*the video is a bit sped up in favor of the gif
+☝🏼video has been sped up to show quick sneak peek In the app background is more smooth. 🕴🏼
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
