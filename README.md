@@ -7,7 +7,7 @@ I know ... so advanced 🤓
 But it's one of my very firsts.
 
 
-![Partners Studio Concept](src/assets/gif.gif)
+![Gif](src/assets/gif.gif)
 
  ☝🏼video has been sped up to show quick sneak peek In the app background is more smooth. 🕴🏼
 
