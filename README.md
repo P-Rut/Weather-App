@@ -7,6 +7,7 @@ One of my firsts 😅
 
 
 ![Partners Studio Concept](src/assets/gif.gif)
+*the video is a bit sped up in favor of the gif
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
