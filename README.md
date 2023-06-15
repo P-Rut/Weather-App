@@ -1,3 +1,5 @@
+![Partners Studio Concept](src/assets/gif.gif)
+
 WEATHER APP
 A simple weather app coded as part of my frontend learning process. It uses open API and allows you to check the weather in any city in the world.
 One of my firsts 😅
