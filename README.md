@@ -8,7 +8,8 @@ But it's one of my very firsts.
 
 
 ![Partners Studio Concept](src/assets/gif.gif)
-☝🏼video has been sped up to show quick sneak peek In the app background is more smooth. 🕴🏼
+
+ ☝🏼video has been sped up to show quick sneak peek In the app background is more smooth. 🕴🏼
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
